@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:gravity="center"
+    >
+    
+    <Space android:layout_width="match_parent" android:layout_height="3dp" />
+    
+    <TextView
+        android:id="@+id/it3_text1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="left|center_vertical"
+        android:singleLine="true"
+        android:textColor="#FFFFFFFF"
+        android:textStyle="bold"
+	/>
+ 
+    <Space android:layout_width="match_parent" android:layout_height="5dp" />
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="left|center_vertical"
+        android:weightSum="720"
+    	>
+    	
+        <TextView
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:gravity="left|center_vertical"
+	        android:singleLine="true"
+	        android:textColor="#CCFFFFFF"
+	        android:paddingLeft="2dp"
+	        android:text="Major : "
+	    />
+        
+	    <TextView
+	        android:id="@+id/it3_text2"
+	        android:layout_weight="220"
+	        android:layout_width="0dp"
+	        android:layout_height="wrap_content"
+	        android:gravity="center"
+	        android:singleLine="true"
+	        android:textColor="#CCFFFFFF"
+	    />
+	    
+	    <TextView
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:gravity="left|center_vertical"
+	        android:singleLine="true"
+	        android:textColor="#CCFFFFFF"
+	        android:paddingLeft="2dp"
+	        android:text="Minor : "
+	    />
+	    
+	    <TextView
+	        android:id="@+id/it3_text3"
+	        android:layout_weight="220"
+	        android:layout_width="0dp"
+	        android:layout_height="wrap_content"
+	        android:gravity="center"
+	        android:singleLine="true"
+	        android:textColor="#CCFFFFFF"
+	    />
+	    
+    </LinearLayout>
+    
+    <Space android:layout_width="match_parent" android:layout_height="5dp" />
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="left|center_vertical"
+        android:weightSum="720"
+    	>
+    	
+        <TextView
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:gravity="left|center_vertical"
+	        android:singleLine="true"
+	        android:textColor="#CCFFFFFF"
+	        android:paddingLeft="2dp"
+	        android:text="rssi : "
+	    />
+	    
+	    <TextView
+	        android:id="@+id/it3_text4"
+	        android:layout_weight="220"
+	        android:layout_width="0dp"
+	        android:layout_height="wrap_content"
+	        android:gravity="center"
+	        android:singleLine="true"
+	        android:textColor="#CCFFFFFF"
+	    />
+	    
+	    <TextView
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:gravity="left|center_vertical"
+	        android:singleLine="true"
+	        android:textColor="#CCFFFFFF"
+	        android:paddingLeft="2dp"
+	        android:text="battery power : "
+	    />
+	    
+	    <TextView
+	        android:id="@+id/it3_text5"
+	        android:layout_weight="220"
+	        android:layout_width="0dp"
+	        android:layout_height="wrap_content"
+	        android:gravity="center"
+	        android:singleLine="true"
+	        android:textColor="#CCFFFFFF"
+	    />
+	    
+	</LinearLayout>
+	
+    <Space android:layout_width="match_parent" android:layout_height="5dp" />
+
+</LinearLayout>
+

@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Users\\joshc\\Documents\\USBeaconSample\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "D:\\Users\\joshc\\Documents\\USBeaconSample\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "191,522",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "481,679"
+                    },
+                    "to": {
+                        "startLines": "5,12",
+                        "startColumns": "4,4",
+                        "startOffsets": "222,513",
+                        "endLines": "11,14",
+                        "endColumns": "12,12",
+                        "endOffsets": "508,668"
+                    }
+                },
+                {
+                    "source": "D:\\Users\\joshc\\Documents\\USBeaconSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "58",
+                        "endColumns": "52",
+                        "endOffsets": "106"
+                    },
+                    "to": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "169",
+                        "endColumns": "52",
+                        "endOffsets": "217"
+                    }
+                },
+                {
+                    "source": "D:\\Users\\joshc\\Documents\\USBeaconSample\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "92,151",
+                        "endColumns": "57,55",
+                        "endOffsets": "145,202"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,113",
+                        "endColumns": "57,55",
+                        "endOffsets": "108,164"
+                    }
+                }
+            ]
+        }
+    ]
+}

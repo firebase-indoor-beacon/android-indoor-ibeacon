@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Mon Jul 01 14:10:36 CST 2019
+1.base=D\:\\Users\\joshc\\Documents\\USBeaconSample\\app\\build\\intermediates\\merged_assets\\debug\\out
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=ASSET
+0.path=classes.dex
+0.set=DEX
+0.base=D\:\\Users\\joshc\\Documents\\USBeaconSample\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+1.path=myxml.xml
