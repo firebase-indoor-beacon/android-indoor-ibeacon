@@ -1,4 +1,4 @@
-#Mon Jul 01 14:10:36 CST 2019
+#Tue Jul 23 20:49:11 CST 2019
 base.0=D\:\\Users\\joshc\\Documents\\USBeaconSample\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
 path.0=classes.dex
 renamed.0=classes.dex

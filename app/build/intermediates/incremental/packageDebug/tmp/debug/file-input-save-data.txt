@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Mon Jul 01 14:10:36 CST 2019
+#Sat Jul 20 21:27:41 CST 2019
 1.base=D\:\\Users\\joshc\\Documents\\USBeaconSample\\app\\build\\intermediates\\merged_assets\\debug\\out
 0.baseType=DIRECTORY
 1.baseType=DIRECTORY
